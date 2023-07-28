@@ -1,5 +1,5 @@
 # Sudoku-Game
-So hello friends this is my first project inside this project i have made sudoku game.
+So hello friends this is my first project inside this project I have made a sudoku game.
 
 So, this is a Sudoku Game Project.
 
